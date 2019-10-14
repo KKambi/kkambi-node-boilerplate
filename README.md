@@ -1,8 +1,8 @@
-# Node & Express Boilerplate
+# 제목
 
 ```
 {
-  "name": "todo",
+  "name": "airbnb",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -35,6 +35,8 @@
     "@babel/core": "^7.6.4",
     "@babel/preset-env": "^7.6.3",
     "babel-loader": "^8.0.6",
+    "babel-plugin-transform-runtime": "^6.23.0",
+=======
     "clean-webpack-plugin": "^3.0.0",
     "css-loader": "^3.2.0",
     "eslint": "^6.5.1",
